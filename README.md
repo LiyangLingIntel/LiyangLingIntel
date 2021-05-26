@@ -1,4 +1,3 @@
-### Hi 👋
 
 Hi I'm Ling Liyang, a SDE at Intel. 
 Focus on AI infrastructure, and I'm interested in distributed system.
