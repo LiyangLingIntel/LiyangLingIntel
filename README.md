@@ -1,6 +1,7 @@
 
-Hi I'm Ling Liyang, a SDE at Intel. 
-Focus on AI infrastructure, and I'm interested in distributed system.
+Hi, I'm Ling Liyang, Software Engineer at Intel, currently working on AI infrastructure.
+
+I'm interested in Deep Learning, Big Data computing and distributed system. 
 <!--
 **LiyangLingIntel/LiyangLingIntel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
