@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 
 ## Github Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LiyangLingIntel&show_icons=true&theme=graywhite)
-
-## Most Used Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiyangLingIntel&layout=compact)](https://github.com/LiyangLingIntel/github-readme-stats)
